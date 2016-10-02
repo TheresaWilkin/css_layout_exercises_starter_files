@@ -14,10 +14,10 @@ main {
 
 .right {
 	float: right;
-	width: 33.33%;
+	width: 300px;
 }
 
 .left {
 	float: left;
-	width: 33.33%;
+	width: 300px;
 }
